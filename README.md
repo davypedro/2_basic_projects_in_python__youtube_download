@@ -1,4 +1,4 @@
-#This small basic project offers to download mp4 videos and mp3 audios from YouTube using the pytube package.
+This small basic project offers to download mp4 videos and mp3 audios from YouTube using the pytube package.
 
 1 - First you need to select whether you want to download video (1) or audio (2).
 
