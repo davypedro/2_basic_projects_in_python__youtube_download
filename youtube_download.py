@@ -15,7 +15,6 @@ if operation == 1:
     print('Audio size = ', yt.length, 'seconds')
     print('Download in progress...')
 
-    #function to get the highest video resolution
     videos = yt.streams.get_highest_resolution()
     videos.download(locale)
 
